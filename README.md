@@ -7,6 +7,9 @@
 
 
 <h2> 👨🏻‍💻 &nbsp;ME & MySelf</h2>
+<a href="#">
+    <img width="1000" height="auto" src="[Resources/Blue-Modern-Technology-Intro-Y-unscreen (1).gif](https://www.flaticon.com/free-animated-icon/chatbot_9066197?term=robot&page=1&position=8&origin=tag&related_id=9066197)" />
+  </a>
 
 ```yaml
 name: Wajahat Haider
