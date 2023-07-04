@@ -1,3 +1,7 @@
+<video width="320" height="240" controls>
+  <source src="Resources/Blue Modern Technology Intro YouTube Video .mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ### Hi there 👋
 * 👂 My name is Wajahat Haider 
 * 🔭 I’m currently working on ...
