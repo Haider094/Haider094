@@ -4,20 +4,22 @@
   </a>
 </div>
 
+---
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to my Github</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-# 💫 About Me:
+---
 
+# 💫 About Me:
 ```yaml
 name: Wajahat Haider
 located_in: Islamabad, Pakistan
-current_job: Full Stack Developer
+current_job: Software Engineer
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in Computer Sciences",
+    "Bachelor's in Computer Sciences",          
   ]
 company: Qisstpay
 
@@ -34,13 +36,28 @@ technical_background:
   
 currently_learning: ["Full Stack Development in Python"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema","Traveling" , "Comedy"]
+hobbies: ["Gaming", "Cinema", "Traveling", "Comedy"]
+
+👯 I’m looking to collaborate on Open-Source Projects
+📫 How to reach me [https://linkedin.com//in/wajahat-haider89/]
 ```
 ---
+<div align="center">
+  <a href="#">
+    <img width="1000" height="auto" src="Resources/dino.gif" />
+  </a>
+</div>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to my Github</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+
+## 🌐 Let's Connect:
+  <a href="https://linkedin.com//in/wajahat-haider89/" target="_blank">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:wajahathaider0@gmail.com" target="_blank">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+</a>
+
 
 
 
