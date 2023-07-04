@@ -1,10 +1,10 @@
 <div align="center">
   <a href="#">
-    <img width="auto" height="auto" src="Resources/Blue Modern Technology Intro YouTube Video .gif" />
+    <img width="1000" height="auto" src="Resources/Blue-Modern-Technology-Intro-Y-unscreen (1).gif" />
   </a>
 </div>
 
----
+
 
 <h2> 👨🏻‍💻 &nbsp;ME & MySelf</h2>
 
