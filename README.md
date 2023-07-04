@@ -67,22 +67,32 @@ hobbies: ["Gaming", "Cinema", "Traveling", "Comedy"]
   
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haider094&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Haider094&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Haider094&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Haider094&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider094&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Snake animation](https://github.com/Haider094/Haider094/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Haider094&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
 ## 🌐 Let's Connect:
   <a href="https://linkedin.com//in/wajahat-haider89/" target="_blank">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:wajahathaider0@gmail.com" target="_blank">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-</a>
+    <img align="left" alt="Wajahat Haider | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /></a>
+<br>
+
+---
+
+<div align="center">
+  <a href="#">
+    <img width="1000" height="auto" src="Resources/giphy.gif" />
+  </a>
+</div>
+
 
 
 
