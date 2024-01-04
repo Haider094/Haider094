@@ -20,7 +20,6 @@ education:
     "Self-Taught Developer",
     "Bachelor's in Computer Sciences",          
   ]
-company: Qisstpay
 
 fields_of_interests:
   [
