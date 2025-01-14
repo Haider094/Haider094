@@ -32,7 +32,7 @@ technical_background:
   ]
   
 currently_learning: ["Generative AI and LLMs"]
-2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2025 Goals: ["Make one out of the box innovation."]
 hobbies: ["Gaming", "Traveling"]
 
 👯 I’m looking to collaborate on Open-Source Projects
@@ -62,16 +62,6 @@ hobbies: ["Gaming", "Traveling"]
 <code><a href="" target="_blank"><img width="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></a></code>
 <code><a href="" target="_blank"><img height = "50" src="https://i.pinimg.com/originals/6a/9d/0d/6a9d0d462cdc2b0b97e607f32aa124e9.png"></a></code>
 <br>
-  
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haider094&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Haider094&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider094&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Haider094&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
