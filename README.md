@@ -13,8 +13,7 @@
 # 💫 About Me
 ```yaml
 name: Wajahat Haider
-located_in: Pakistan
-current_job: Software Engineer
+located_in: Finland
 education:
   [
     "Self-Taught Developer",
