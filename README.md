@@ -24,7 +24,6 @@ fields_of_interests:
   [
     "Artificial Intelligence",
     "Cyber Security",
-    "Web Development"
   ]
 technical_background:
   [
