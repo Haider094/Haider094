@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to my Github</h1>
-<h3 align="center">I'm a passionate Software Engineer</h3>
+<h3 align="center">I'm a passionate AI Engineer</h3>
 
 ---
 
@@ -18,7 +18,8 @@ current_job: Software Engineer
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in Computer Sciences",          
+    "Bachelor's in Computer Sciences", 
+    Masters in Artificial Intelligence
   ]
 fields_of_interests:
   [
@@ -32,7 +33,7 @@ technical_background:
   ]
   
 currently_learning: ["Generative AI and LLMs"]
-2025 Goals: ["Make one out of the box innovation."]
+2026 Goals: ["Make one out of the box innovation."]
 hobbies: ["Gaming", "Traveling"]
 
 👯 I’m looking to collaborate on Open-Source Projects
