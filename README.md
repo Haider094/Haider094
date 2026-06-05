@@ -76,40 +76,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### [📁 RAGbase](https://github.com/Haider094/ragbase.git)
-> RAG system that answers natural language questions about uploaded docs using LangChain, ChromaDB, and Llama 3.1 8B
-
-`RAG` · `LangChain` · `ChromaDB` · `Llama` · `HuggingFace`
-
-### [📁 Massively-Parallel Window Analytics for Wireless Sensor Networks](https://github.com/Haider094/Massively-parallel-window-analytics.git)
-> A CUDA-accelerated streaming analytics engine that computes sliding-window statistics (mean, variance, z-score, anomaly detection, peak detection) across up to 1,000,000 independent wireless sensor streams simultaneously
-
-`CUDA` · `OpenMP` · `GCC` · `C++`
-
-### [📁 Intel Scene Classifier](https://github.com/Haider094/intel-scene-classifier.git)
-> Transfer learning pipeline for scene classification, VGG16 fine-tuned on Intel Image Classification dataset with FastAPI inference services
-
-`Tensorflow/ Keras` · `FastApi` · `VGG16` · `Pillow/ Numpy` 
-
-### [📁 generative-face-synthesis](https://github.com/Haider094/generative-face-synthesis.git)
-> End-to-end implementations of four generative deep learning architectures trained on the CelebA dataset
-
-`Tensorflow/ Keras` · `KerasCV` · `OpenCV` · `CelebA` 
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haider094/Haider094/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haider094/Haider094/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Haider094/Haider094/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
